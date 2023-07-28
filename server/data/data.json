@@ -1,0 +1,48 @@
+[
+    {
+          "_id": 1,
+          "image_url": "https://cdn.pixabay.com/photo/2021/01/05/15/48/marsh-harrier-5891589_1280.jpg",
+          "name": "Marsh Harrier",
+          "description": "A bird of prey that has a long tail and broad wings.",
+          "habitat": "Marshland",
+          "species": "Bird"
+    },
+    
+    {
+          "_id": 2,
+          "image_url": "https://images.pexels.com/photos/53510/head-details-otter-close-up-53510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "European Otter",
+          "description": "A small mammal with a long slim body and webbed feet.",
+          "habitat": "River",
+          "species": "Otter"
+    },
+    
+    {
+          "_id": 3,
+          "image_url": "https://images.pexels.com/photos/7710414/pexels-photo-7710414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Muntjac",
+          "description": "A small deer that has short, unbranched antlers.",
+          "habitat": "Woodland",
+          "species": "Deer"
+    },
+    
+    
+    {
+          "_id": 4,
+          "image_url": "https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Kingfisher",
+          "description": "A small bird with bright blue and orange feathers.",
+          "habitat": "River",
+          "species": "Bird"
+    },
+    
+    {
+          "_id": 5,
+          "image_url": "https://images.pexels.com/photos/15913113/pexels-photo-15913113/free-photo-of-a-badger-in-a-zoo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "European Badger",
+          "description": "A small black and white striped mammal.",
+          "habitat": "Woodland",
+          "species": "Badger"
+    }
+    
+    ]
