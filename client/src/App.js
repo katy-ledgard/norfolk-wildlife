@@ -30,18 +30,6 @@ function App() {
     setAllAnimals(!allAnimals);
   }
 
-  // function displayAnimals(){
-  //   allAnimals.map((animal)=>{
-  //     return
-  //         <p>{animal.name}</p>
-  //         // imgUrl:animal.image_url,
-  //         // description:animal.description,
-  //         // species:animal.species,
-  //         // habitat:animal.habitat,
-
-  //   })
-  // }
-
   return (
     <div className="App">
       <Header />
@@ -74,7 +62,7 @@ function App() {
       <h2>Find an animal by Habitat</h2>
 
       <input type="text" placeholder="search habitat" onChange={handleSearch} />
-      {/* <button onClick={getImage}>Explore!</button> */}
+      
     </div>
   );
 }
