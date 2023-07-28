@@ -14,7 +14,7 @@ function App() {
   }
 
   async function getAnimals(event) {
-    const API = "http://localhost:8082/animal";
+    const API = "https://norfolk-wildlife.onrender.com/animal";
     const res = await axios.get(API);
     // const animals = res.map((animal)=> {
     // return (
